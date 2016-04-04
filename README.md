@@ -1,0 +1,1 @@
+demo for gitlab-ci with cpp compilation
